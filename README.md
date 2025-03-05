@@ -42,10 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanhtuscode&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
+---
 
 ## 🎮 Play a Game:
 <p align="center">
-  <iframe src="https://www.retrogames.cc/embed/32928-doom-64-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+  <a href="https://www.retrogames.cc/embed/32928-doom-64-usa.html" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Doom%2064-Click%20to%20Play-brightgreen?style=for-the-badge&logo=gamepad&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -63,3 +66,4 @@
 ---
 
 ✨ _"Code, Create, and Conquer the Game Dev World!"_ 🚀🎮
+
