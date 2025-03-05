@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> 
   What's Up! I'm Nathan Tr 🎩
 </h1>
 
@@ -42,13 +42,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanhtuscode&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
----
 
-## 🌌 Pixel Art Theme 🎨:
+## 🎮 Play a Game:
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200">
+  <iframe src="https://www.retrogames.cc/embed/32928-doom-64-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 </p>
 
 ---
@@ -56,14 +53,13 @@
 ## 🔗 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/nathantr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-pixel--art-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nathantrvn18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pixel--art-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ✨ _"Code, Create, and Conquer the Game Dev World!"_ 🚀🎮
-
