@@ -23,24 +23,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,cpp,python,js,nodejs,unity,unreal,blender,git,linux,gcp,sqlite,mongodb,selenium,opencv" />
 </p>
-
 ---
 
-## 🏆 Achievements:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanhtuscode&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Profile Trophies">
-  </a>
-</p>
-
 ---
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanhtuscode&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanhtuscode&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
 
 ## 🎮 Play a Game:
 <p align="center">
