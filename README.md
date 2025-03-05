@@ -21,9 +21,8 @@
 
 ## 🎯 My Arsenal:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,cpp,python,js,nodejs,unity,unreal,blender,git,linux,gcp,sqlite,mongodb,selenium,opencv" />
+  <img src="https://skillicons.dev/icons?i=csharp,cpp,python,js,nodejs,unity,unreal,blender,git,linux,aws,gcp,sqlite,mysql,mongodb,selenium,opencv" />
 </p>
----
 
 ---
 
@@ -31,6 +30,15 @@
 <p align="center">
   <a href="https://tanhtuscode.github.io/MiniDayZ-uptest/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20MiniDayZ-Click%20to%20Play-brightgreen?style=for-the-badge&logo=gamepad&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ My Tools:
+<p align="center">
+  <a href="https://github.com/tanhtuscode/DBC-Viewer-for-Unity" target="_blank">
+    <img src="https://img.shields.io/badge/DBC%20Viewer%20for%20Unity-View%20Tool-blue?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
 </p>
 
