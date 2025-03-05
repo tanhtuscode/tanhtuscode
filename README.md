@@ -21,7 +21,7 @@
 
 ## 🎯 My Arsenal:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,cpp,python,js,nodejs,unity,unreal,blender,git,linux,aws,gcp,sqlite,mysql,mongodb,selenium,opencv" />
+  <img src="https://skillicons.dev/icons?i=csharp,cpp,python,js,nodejs,unity,unreal,blender,git,linux,gcp,sqlite,mongodb,selenium,opencv" />
 </p>
 
 ---
