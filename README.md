@@ -1,7 +1,7 @@
 <!-- HERO -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="48" alt="Coder gif">
-  Nathan Tr — Simulation & Game Developer
+  Nathan Tr — Game Engineer
 </h1>
 
 <p align="center">
